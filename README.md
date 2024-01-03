@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65956e83ae22c12523181c55?variant=dark)](https://roadmap.sh)
 <!--
 **brunocapistrano/brunocapistrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
