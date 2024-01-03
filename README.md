@@ -20,4 +20,6 @@
 
 ## 🛠 Technologies I've already had contact with
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,vue,css,tailwind,redis,vite,webflow)](https://skillicons.dev) [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65956e83ae22c12523181c55?variant=dark)](https://roadmap.sh)
+[![My Skills](https://skillicons.dev/icons?i=html,js,vue,css,tailwind,redis,vite,webflow)](https://skillicons.dev) 
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65956e83ae22c12523181c55?variant=dark)](https://roadmap.sh)
